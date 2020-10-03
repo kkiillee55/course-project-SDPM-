@@ -65,3 +65,5 @@ It took <the time> seconds to compute SDPM
 #Authors
 BRIAN FROST
 XUANYI LIAO
+
+![Alt text](/images/fft.png?raw=true "Title")
