@@ -60,10 +60,15 @@ After it finishes, the running time of each step will be printed out in the cons
 It took <the time> seconds to read the data
 It took <the time> seconds to obtain the polynomial background serially
 It took <the time> seconds to compute SDPM
+ 
+#Performance
+
+![Alt text](/images/bgsub_rsp cpu and gpu.png?raw=true "Title")
+![Alt text](/images/fft.png?raw=true "Title")
 
 
 #Authors
 BRIAN FROST
 XUANYI LIAO
 
-![Alt text](/images/fft.png?raw=true "Title")
+
