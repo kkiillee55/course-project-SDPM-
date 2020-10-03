@@ -1,6 +1,6 @@
 #Acceleration of Spectral Domain Phase Microscopy for Optical Coherence Tomography
 #Project for EECSE4750_001_2019_3 - HETEROGEN COMP-SIG PROCESSING
-
+#due to the privacy of patients, we cannot share acutal data in github
 This is a complete implememtation of the process from reading the raw data to computing the SDPM
 Background subtractioin, windowing, resampling, FFT and SDPM are all done in GPU which achieves 20x speed up than the Matlab code.
 
