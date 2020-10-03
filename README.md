@@ -63,8 +63,11 @@ It took <the time> seconds to compute SDPM
  
 #Performance
 
-![Alt text](/images/bgsub_rsp%20cpu%20and%20gpu.png?raw=true "Title")
-![Alt text](/images/fft.png?raw=true "FFtT")
+![Alt text](/images/bgsub_rsp%20cpu%20and%20gpu.png?raw=true "Background Subtraction and Resampling in CPU and GPU")
+![Alt text](/images/bgsub_rsp%20different%20block%20size.png?raw=true "Background Subtraction in different block size")
+![Alt text](/images/ptdiv%20cpu%20and%20gpu.png?raw="Windowing and Smoothing in CPU and GPU")
+![Alt text](/images/ptdiv%20with%20different%20block%20size.png?raw=true "Windowing and Smoothing in different block size")
+![Alt text](/images/fft.png?raw=true "FFT")
 
 
 #Authors
