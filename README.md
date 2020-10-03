@@ -63,8 +63,8 @@ It took <the time> seconds to compute SDPM
  
 #Performance
 
-![Alt text](/images/bgsub_rsp cpu and gpu.png?raw=true "Title")
-![Alt text](/images/fft.png?raw=true "Title")
+![Alt text](/images/bgsub_rsp_cpu_and_gpu.png?raw=true "Title")
+![Alt text](/images/fft.png?raw=true "FFtT")
 
 
 #Authors
